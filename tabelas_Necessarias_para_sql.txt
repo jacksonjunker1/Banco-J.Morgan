@@ -1,0 +1,10 @@
+tabelas necessarias para o banco de dados (Banco J.Morgan) 
+tabela Clientes (cadastro  de usuarios bancarios)✅
+tabela Funcionarios (funcionarios ligados diretamente ou indiretamente ao banco(terceiros))✅
+tabela transações (todas as movimentações do banco)✅
+tabela investimentos (todos os investimentos disponiveis no banco) ✅
+tabela Carteira de investimentos (todos os investimentos dos clientes)✅
+tabela contas (todas as contas dos clientes do banco)✅
+tabela agencias (todas as agencias bancarias do banco J.Morgan)✅
+tabela logins (todos os dados de logins dos usuarios)✅
+tabela Tipos_Transacao (pix,Ted,cartao,saque)✅

@@ -1,0 +1,151 @@
+ID_Agencia,Nome,Cargo,Salario
+10,Ricardo Oliveira,Gerente Geral,15420.50
+10,Mariana Silva,Gerente de Relacionamento,8750.00
+10,Lucas Rodrigues,Gerente de Relacionamento,8320.40
+10,Beatriz Gomes,Gerente de Relacionamento,8600.15
+10,Fernando Costa,Gerente de Operacoes,9210.00
+10,Juliana Santos,Supervisor de Atendimento,6700.30
+10,Gabriel Pereira,Supervisor de Atendimento,6450.00
+10,Camila Lima,Caixa,4350.20
+10,Diego Souza,Caixa,4180.00
+10,Larissa Almeida,Caixa,4250.75
+10,Rafael Ribeiro,Caixa,4400.00
+10,Ana Ferreira,Caixa,4210.30
+10,Gustavo Lopes,Caixa,4320.00
+10,Matheus Martins,Agente Comercial,4650.00
+10,Priscila Carvalho,Agente Comercial,4480.50
+10,Vitor Soares,Agente Comercial,4520.00
+10,Alice Fernandes,Agente Comercial,4700.00
+10,Pedro Silva,Agente Comercial,4550.25
+10,Helena Santos,Assistente Administrativo,3920.00
+10,Joao Oliveira,Assistente Administrativo,3750.40
+10,Renata Souza,Assistente Administrativo,3850.00
+10,Leonardo Rodrigues,Assistente Administrativo,3980.10
+10,Rodrigo Ferreira,Seguranca,3350.00
+10,Vanessa Alves,Seguranca,3210.50
+10,Guilherme Pereira,Seguranca,3180.00
+10,Leticia Lima,Auxiliar de Servicos Gerais,2950.00
+10,Aline Gomes,Auxiliar de Servicos Gerais,2850.40
+10,Bruno Lima,Auxiliar de Servicos Gerais,2800.00
+10,Clara Costa,Auxiliar de Servicos Gerais,2820.00
+10,Felipe Santos,Auxiliar de Servicos Gerais,2810.00
+11,Patricia Costa,Gerente Geral,14890.00
+11,Thiago Ribeiro,Gerente de Relacionamento,8650.30
+11,Sofia Martins,Gerente de Relacionamento,8420.00
+11,Vitor Carvalho,Gerente de Relacionamento,8550.00
+11,Enzo Almeida,Gerente de Operacoes,8900.00
+11,Clara Lopes,Supervisor de Atendimento,6600.00
+11,Daniel Soares,Supervisor de Atendimento,6520.40
+11,Isabela Fernandes,Caixa,4200.00
+11,Bruno Vieira,Caixa,4150.80
+11,Livia Barbosa,Caixa,4300.00
+11,Andre Silva,Caixa,4220.50
+11,Sonia Santos,Caixa,4190.00
+11,Marcos Oliveira,Caixa,4280.00
+11,Heitor Souza,Agente Comercial,4600.00
+11,Arthur Rodrigues,Agente Comercial,4450.00
+11,Manuela Ferreira,Agente Comercial,4510.30
+11,Cecilia Alves,Agente Comercial,4580.00
+11,Valentina Pereira,Agente Comercial,4620.00
+11,Felipe Lima,Assistente Administrativo,3800.00
+11,Giovanna Gomes,Assistente Administrativo,3880.50
+11,Lorenzo Costa,Assistente Administrativo,3720.00
+11,Juliana Ribeiro,Assistente Administrativo,3950.00
+11,Diego Martins,Seguranca,3300.00
+11,Larissa Carvalho,Seguranca,3250.00
+11,Rafael Almeida,Seguranca,3200.00
+11,Camila Lopes,Auxiliar de Servicos Gerais,2900.00
+11,Guilherme Soares,Auxiliar de Servicos Gerais,2820.00
+11,Breno Melo,Auxiliar de Servicos Gerais,2840.00
+11,Alice Rocha,Auxiliar de Servicos Gerais,2830.00
+11,Eduardo Paes,Auxiliar de Servicos Gerais,2815.00
+12,Marcelo Silva,Gerente Geral,15100.00
+12,Aline Souza,Gerente de Relacionamento,8800.00
+12,Renato Alves,Gerente de Relacionamento,8700.00
+12,Carla Dias,Gerente de Relacionamento,8600.00
+12,Marcos Vinicius,Gerente de Operacoes,9100.00
+12,Patricia Gomes,Supervisor de Atendimento,6400.00
+12,Rodrigo Lima,Supervisor de Atendimento,6350.00
+12,Sandra Regina,Caixa,4200.00
+12,Carlos Eduardo,Caixa,4150.00
+12,Monica Silva,Caixa,4180.00
+12,Elaine Costa,Caixa,4190.00
+12,Jorge Aragao,Caixa,4210.00
+12,Nilson Gomes,Caixa,4175.00
+12,Tatiana Rocha,Agente Comercial,4500.00
+12,Flavio Jose,Agente Comercial,4450.00
+12,Ivone Santos,Agente Comercial,4550.00
+12,Sandro Moura,Agente Comercial,4600.00
+12,Debora Peixoto,Agente Comercial,4520.00
+12,Xuxa Meneghel,Assistente Administrativo,3900.00
+12,Gugu Liberato,Assistente Administrativo,3850.00
+12,Fausto Silva,Assistente Administrativo,3880.00
+12,Ana Maria,Assistente Administrativo,3820.00
+12,Tiririca Silva,Seguranca,3400.00
+12,Whindersson Nunes,Seguranca,3400.00
+12,Felipe Neto,Seguranca,3400.00
+12,Maisa Silva,Auxiliar de Servicos Gerais,2900.00
+12,Larissa Manoela,Auxiliar de Servicos Gerais,2900.00
+12,Jean Paulo,Auxiliar de Servicos Gerais,2900.00
+12,Cirilo Rivera,Auxiliar de Servicos Gerais,2900.00
+12,Maria Joaquina,Auxiliar de Servicos Gerais,2900.00
+13,Jose Alencar,Gerente Geral,15500.00
+13,Machado Assis,Gerente de Relacionamento,8900.00
+13,Clarice Lispector,Gerente de Relacionamento,8850.00
+13,Guimaraes Rosa,Gerente de Relacionamento,8820.00
+13,Cecilia Meireles,Gerente de Operacoes,9300.00
+13,Jorge Amado,Supervisor de Atendimento,6800.00
+13,Vinicius Moraes,Supervisor de Atendimento,6750.00
+13,Erico Verissimo,Caixa,4250.00
+13,Graciliano Ramos,Caixa,4230.00
+13,Ariano Suassuna,Caixa,4240.00
+13,Manuel Bandeira,Caixa,4220.00
+13,Cora Coralina,Caixa,4260.00
+13,Adelia Prado,Caixa,4215.00
+13,Monteiro Lobato,Agente Comercial,4650.00
+13,Mario Andrade,Agente Comercial,4620.00
+13,Oswald Andrade,Agente Comercial,4630.00
+13,Tarsila Amaral,Agente Comercial,4680.00
+13,Anita Malfatti,Agente Comercial,4610.00
+13,Chico Buarque,Assistente Administrativo,3950.00
+13,Caetano Veloso,Assistente Administrativo,3920.00
+13,Gilberto Gil,Assistente Administrativo,3930.00
+13,Elis Regina,Assistente Administrativo,3980.00
+13,Tim Maia,Seguranca,3500.00
+13,Rita Lee,Seguranca,3500.00
+13,Raul Seixas,Seguranca,3500.00
+13,Cassia Eller,Auxiliar de Servicos Gerais,3000.00
+13,Zeca Pagodinho,Auxiliar de Servicos Gerais,3000.00
+13,Martinho Vila,Auxiliar de Servicos Gerais,3000.00
+13,Arlindo Cruz,Auxiliar de Servicos Gerais,3000.00
+13,Alcione Nazar,Auxiliar de Servicos Gerais,3000.00
+14,Roberto Marinho,Gerente Geral,16000.00
+14,Silvio Santos,Gerente de Relacionamento,9500.00
+14,Galvao Bueno,Gerente de Relacionamento,9200.00
+14,Faustao Silva,Gerente de Relacionamento,9300.00
+14,William Bonner,Gerente de Operacoes,9800.00
+14,Fatima Bernardes,Supervisor de Atendimento,7000.00
+14,Luciano Huck,Supervisor de Atendimento,6900.00
+14,Ana Hickmann,Caixa,4300.00
+14,Rodrigo Faro,Caixa,4250.00
+14,Eliana Michael,Caixa,4280.00
+14,Ratinho Massa,Caixa,4220.00
+14,Celso Portiolli,Caixa,4260.00
+14,Sabrina Sato,Caixa,4240.00
+14,Marcos Mion,Agente Comercial,4700.00
+14,Ivete Sangalo,Agente Comercial,4800.00
+14,Luan Santana,Agente Comercial,4650.00
+14,Gusttavo Lima,Agente Comercial,4750.00
+14,Anitta Machado,Agente Comercial,4900.00
+14,Tais Araujo,Assistente Administrativo,4000.00
+14,Lazaro Ramos,Assistente Administrativo,3950.00
+14,Paolla Oliveira,Assistente Administrativo,3980.00
+14,Caua Reymond,Assistente Administrativo,3920.00
+14,Wagner Moura,Seguranca,3600.00
+14,Selton Mello,Seguranca,3600.00
+14,Alice Braga,Seguranca,3600.00
+14,Fernanda Monten,Auxiliar de Servicos Gerais,3100.00
+14,Tony Ramos,Auxiliar de Servicos Gerais,3100.00
+14,Gloria Pires,Auxiliar de Servicos Gerais,3100.00
+14,Lima Duarte,Auxiliar de Servicos Gerais,3100.00
+14,Susana Vieira,Auxiliar de Servicos Gerais,3100.00
